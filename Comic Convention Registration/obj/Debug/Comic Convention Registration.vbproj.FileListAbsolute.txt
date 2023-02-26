@@ -1,0 +1,12 @@
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\bin\Debug\Comic Convention Registration.exe.config
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\bin\Debug\Comic Convention Registration.exe
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\bin\Debug\Comic Convention Registration.pdb
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\bin\Debug\Comic Convention Registration.xml
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic Convention Registration.vbproj.AssemblyReference.cache
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic_Convention_Registration.Resources.resources
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic Convention Registration.vbproj.GenerateResource.cache
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic Convention Registration.vbproj.CoreCompileInputs.cache
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic Convention Registration.exe
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic Convention Registration.xml
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic Convention Registration.pdb
+C:\Users\barron_wesley\source\repos\ComicConventionRegistration\Comic Convention Registration\obj\Debug\Comic_Convention_Registration.frmComic.resources
