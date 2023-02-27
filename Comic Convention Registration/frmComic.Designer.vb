@@ -22,7 +22,7 @@ Partial Class frmComic
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.picComic = New System.Windows.Forms.PictureBox()
         Me.lblHeading = New System.Windows.Forms.Label()
         Me.lblGroupSize = New System.Windows.Forms.Label()
         Me.txtBoxGroup = New System.Windows.Forms.TextBox()
@@ -34,19 +34,19 @@ Partial Class frmComic
         Me.lblRegsTotal = New System.Windows.Forms.Label()
         Me.btnCalculate = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.picComic, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.grpType.SuspendLayout()
         Me.SuspendLayout()
         '
-        'PictureBox1
+        'picComic
         '
-        Me.PictureBox1.Image = Global.Comic_Convention_Registration.My.Resources.Resources.comic
-        Me.PictureBox1.Location = New System.Drawing.Point(1, 0)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(638, 184)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 0
-        Me.PictureBox1.TabStop = False
+        Me.picComic.Image = Global.Comic_Convention_Registration.My.Resources.Resources.comic
+        Me.picComic.Location = New System.Drawing.Point(1, 0)
+        Me.picComic.Name = "picComic"
+        Me.picComic.Size = New System.Drawing.Size(638, 184)
+        Me.picComic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.picComic.TabIndex = 0
+        Me.picComic.TabStop = False
         '
         'lblHeading
         '
@@ -185,12 +185,12 @@ Partial Class frmComic
         Me.Controls.Add(Me.txtBoxGroup)
         Me.Controls.Add(Me.lblGroupSize)
         Me.Controls.Add(Me.lblHeading)
-        Me.Controls.Add(Me.PictureBox1)
+        Me.Controls.Add(Me.picComic)
         Me.ForeColor = System.Drawing.Color.Crimson
         Me.Name = "frmComic"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Comic Convention Registration"
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.picComic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.grpType.ResumeLayout(False)
         Me.grpType.PerformLayout()
         Me.ResumeLayout(False)
@@ -198,7 +198,7 @@ Partial Class frmComic
 
     End Sub
 
-    Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents picComic As PictureBox
     Friend WithEvents lblHeading As Label
     Friend WithEvents lblGroupSize As Label
     Friend WithEvents txtBoxGroup As TextBox
